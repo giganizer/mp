@@ -1,2 +1,2 @@
-# Machine perception
-## 2023/2024
+# Machine perception (umetno zaznavanje)
+2023/2024
